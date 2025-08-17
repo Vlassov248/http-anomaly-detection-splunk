@@ -7,7 +7,7 @@ Analytical HTTP security case: detection of error spikes, credential stuffing, S
 ## Demo
 
 - **Dashboard file:** [Dashboard_HTTP](./Dashboard_HTTP.png) — import into Splunk (Studio or SimpleXML)
-- ![Dashboard_HTTP](./Dashboard_HTTP.png
+- ![Dashboard_HTTP](./Dashboard_HTTP.png)
 - **Full report (DOCX):** [HTTP_Logs_report.docx](./HTTP_Logs_report.docx) — step-by-step searches, screenshots, observations, conclusions
 
 ---
